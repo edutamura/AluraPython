@@ -26,4 +26,6 @@ while(rodada <= total_de_tentativas):
     
     rodada = rodada + 1
 
+    #teste de sincronização
+
 print("Fim do jogo")
