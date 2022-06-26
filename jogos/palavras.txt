@@ -3,3 +3,8 @@ melão
 banana
 melancia
 morango
+caju
+manga
+abacaxi
+limão
+tomate
