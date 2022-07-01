@@ -25,6 +25,10 @@ class Conta:
         destino.deposita(valor)
 
     @property
+    def numero(self):
+        return self.__numero
+
+    @property
     def saldo(self):
         return self.__saldo
     
